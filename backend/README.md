@@ -1,4 +1,4 @@
-# Airbnb clone (fullstack project)
+# Airbnb clone (fullstack project - backend)
 
 - Spring boot 3
 - Angular 17
